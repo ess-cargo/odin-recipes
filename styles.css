@@ -1,0 +1,16 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: cornsilk;
+}
+
+h1,
+h2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+img {
+    display: inline-block;
+    max-width: 50%;
+    height: auto;
+    border: 5px darkblue;
+}
