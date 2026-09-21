@@ -1,3 +1,3 @@
 # odin-recipes
 HTML Project: Recipes
-This project is a reflection of Foundations material learned in The Odin Project.
+This project reflects foundational material learned in [The Odin Project](https://www.theodinproject.com/paths).
